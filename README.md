@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ammarsiddiquee
-Cloud Computing, Artificial Intelligence, Cyber Security- 👀 I’m interested in ...
-Cloud Computing- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...Cloud Computing, Artificial Intelligence and Cyber Security
+- 🌱 I’m currently learning ...Cloud Computing and Advance Java
  - 💞️ I’m looking to collaborate on ...Cloud Computing
 - 📫 How to reach me ...siddiqueeammar3@gmail.com
 
